@@ -3,6 +3,7 @@
 #include <chrono>
 #include <mutex>
 #include <string>
+#include <atomic>
 
 struct Bar_data {
 public:
